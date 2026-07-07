@@ -1,6 +1,6 @@
 {
   "name": "@obh/settings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Boring typed, scoped configuration: define with Zod, override across scopes, resolve effective values, record changes.",
   "license": "MIT",
   "main": "dist/index.js",
